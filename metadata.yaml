@@ -1,0 +1,25 @@
+_repo: Eight-Years-Wanderings-in-Ceylon_2036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, Samuel White, Sir
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '796'
+    url: http://www.gutenberg.org/2009/agents/796
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Baker
+description: ''
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sri Lanka -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: Eight Years' Wanderings in Ceylon
+url: http://www.gutenberg.org/ebooks/2036
